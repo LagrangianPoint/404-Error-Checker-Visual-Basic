@@ -27,15 +27,12 @@ These errors may arrise as a result of a desing change of a website, website mig
 **Compiling Project**
 
 1. Double click *404 Checker stage 1.sln* so Visual Studio Express [or better] can open the project.
-
 2. Compile the project to create a binary file.
-
 3. Double click the generated binary file.
 
 **Using the binary file**
 
 1. Download the binary file
-
 2. Double click to run it.
 
 ## Stages
@@ -43,7 +40,7 @@ These errors may arrise as a result of a desing change of a website, website mig
 The first step was to build a simple class for URL checking,  and a basic GUI was built for testing purposes.
 This version only checks the status of a single url.
 
-### Stage 2
+### Stage 2 [completed]
 The next step is to improve the class create in the previous step, and allow it to work in a multithread/multiprocessor fashion. 
 
 This version allows you to check hundreds (or thousands) of urls at the same time since you can use multiple threads.
