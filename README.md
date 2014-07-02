@@ -4,7 +4,8 @@
 
 A Visual Basic tool for checking a list of URL to find out which ones throw a 404 errror. 
 
-*Warning: This project is not complete, and this program can only check only a single url to see if it haves a 404 error.*
+*Warning: This project is not complete, and it is currently a work in progress. You can use the Stage 2 of this project in a reliable way for now while
+I finish stage 3*
 
 This program is related to:
 https://github.com/LagrangianPoint/404-Error-Checker-Python
