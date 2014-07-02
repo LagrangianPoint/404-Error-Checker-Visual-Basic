@@ -25,12 +25,17 @@ These errors may arrise as a result of a desing change of a website, website mig
 ## Usage
 
 **Compiling Project**
+
 1. Double click *404 Checker stage 1.sln* so Visual Studio Express [or better] can open the project.
+
 2. Compile the project to create a binary file.
+
 3. Double click the generated binary file.
 
 **Using the binary file**
+
 1. Download the binary file
+
 2. Double click to run it.
 
 ## Stages
