@@ -46,7 +46,7 @@ The next step is to improve the class create in the previous step, and allow it 
 
 This version allows you to check hundreds (or thousands) of urls at the same time since you can use multiple threads.
 
-You can also configure the maximum number of threads to use, so the URL checking can be faster depending on the targe server.
+You can also configure the maximum number of threads to use, so the URL checking can be faster depending on the target server.
 
 ### Stage 3
 Create a GUI that makes use of the class built in the second step, and make this application more usable to the end user.
